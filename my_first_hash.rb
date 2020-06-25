@@ -26,3 +26,4 @@ def adding
   shipping_manifest
 end
 
+i think i tried calling the_manifest
