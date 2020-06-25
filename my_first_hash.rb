@@ -25,3 +25,5 @@ def adding
   binding.pry
   shipping_manifest
 end
+
+shipping_manifest
