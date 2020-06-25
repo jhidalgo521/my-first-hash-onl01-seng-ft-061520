@@ -26,13 +26,3 @@ def adding
   shipping_manifest
 end
 
-def test(name)
-  puts "hi #{name}"
-  binding.pry
-end
-
-test("jose")
-
-
-yea thats fine
-  
